@@ -1,0 +1,23 @@
+{
+	"name": "ajs-2",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/milkyWRLD/ajs-2.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/milkyWRLD/ajs-2/issues"
+	},
+	"homepage": "https://github.com/milkyWRLD/ajs-2#readme",
+	"dependencies": {
+		"@milkywrld/ajs-platforms": "^1.0.0"
+	}
+}
